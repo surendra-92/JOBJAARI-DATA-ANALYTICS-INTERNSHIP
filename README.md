@@ -4,8 +4,8 @@
 This repository contains the completed Task 1 Excel file for the Jobyaari assignment shared via Internshala.
 
 ## Submitted By
-**Your Full Name**  
-Email: yourname@email.com  
+**MALLAIAHGARI SURENDRA**  
+Email: surinani6065@email.com  
 Date of Submission: 20 July 2025
 
 ## Contents
