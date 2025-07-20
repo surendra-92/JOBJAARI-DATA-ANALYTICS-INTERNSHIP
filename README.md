@@ -1,3 +1,16 @@
 # JOBJAARI-DATA-ANALYTICS-INTERNSHIP
-"C:\Users\Lenovo\Downloads\Task1.xlsx" 
+# Jobyaari Assignment – Task 1
+
+This repository contains the completed Task 1 Excel file for the Jobyaari assignment shared via Internshala.
+
+## Submitted By
+**Your Full Name**  
+Email: yourname@email.com  
+Date of Submission: 20 July 2025
+
+## Contents
+- Task1_Filled_Submission.xlsx – Contains all 5 filled tabs (AAU, TANUVAS, NHM, CSIR, NTPC)
+
+Please review and let me know if any changes are needed. Thank you!
+
 
